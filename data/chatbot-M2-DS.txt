@@ -1,0 +1,194 @@
+Quels sont les parcours ?	Le M2 ouvre en Informatique et Mathématiques Appliquées 
+C'est un M2 ou un M1 ?	C'est un M2
+Quels mentions ?	mention Informatique ou Mathématiques
+Je souhaite m'inscrire	Les inscriptions 2018 se font sur ecandidat
+Je veux m'inscrire	Les inscriptions 2018 se font sur ecandidat
+Je souhaite postuler	Les inscriptions 2018 se font sur ecandidat
+Je souhaite postuler au master en 2018	Les inscriptions se font sur ecandidat
+Quels apprentissages ?	Acquérir un socle de connaissances techniques en machine learning 
+Quels cours ?	Acquérir un socle de connaissances techniques en machine learning 
+Les atouts de ce parcours ?	Une pédagogie fondée sur de nombreuses études de cas 
+Quels atouts ?	Une pédagogie fondée sur des retours d’expérience
+Quelle pédagogie ?	Une pédagogie fondée sur de nombreuses études de cas 
+Quel est le corps professoral ?	Il est composé de chercheurs du LIRIS, 
+Quelles synergies ?	Forte synergie entre milieu académique et monde professionnel
+Des liens avec le monde professionnel ?	Forte synergie entre milieu académique et monde professionnel
+Dans quelle langue ?	En Français, certains cours sont en anglais
+Doctorat ?	Oui c'est possible après le master
+Thèse ? 	Oui c'est possible après le master
+Quelle date de rentrée ?	La rentrée est le 5 septembre
+Quand ?	C'est le 5 septembre
+La date de rentrée ?	Le 5 septembre
+C'est quand la rentrée ?	Le 5 septembre
+Combien de places ?	Il y a 20 places en tout
+Quels sont les prérequis ?	Les Mathématiques et les statistiques
+Si je suis étranger ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Nantes ?	Il y a 5 places
+Si je viens de Lyon ?	Il y a 20 places
+Si je viens de Paris ?	Il y a 5 places
+Si je viens de Marseille ?	Il y a 5 places
+Quelle date ?	C'est le cinq septembre
+Quand ?	Le cinq septembre
+Combien de places ?	Il y a 20 places en tout
+Il faut des prérequis ?	En Mathématiques et statistiques oui
+Comment faire si je suis étranger ?	Il y a dix places aux étudiants hors UE
+Si je n'ai pas fait mon M1 à Lyon 1 ?	5 places pour ceux qui ont un M1 français
+Si je viens de Lyon ?	Il y a vingt places pour les lyonnais
+Si je viens de Paris ?	Cinq places pour les titulaires d'un master français
+Si je viens de Marseille ?	Il y a 5 places
+Quelle date est la rentrée ?	La rentrée est le 5 septembre 2018
+Quand est-ce ?	Le cinq septembre
+Combien de places ?	Il y a 20 places en tout
+Y a-t-il des prérequis nécessaires?	Oui en Mathématiques et statistiques
+Si je suis étranger ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Nantes ?	Cinq places pour les titulaires d'un master français
+Si je viens de Lyon ?	Il y a 20 places 
+Si je viens de Pau ?	Cinq places pour les titulaires d'un master français
+Si je viens de Marseille ?	5 places pour ceux qui ont un M1 français
+Quelle date ?	Le cinq septembre
+C'est quand la rentrée ?	Le 5 septembre
+Combien de places ?	Il y a 20 places en tout
+Quels sont les connaissances demandées ?	Mathématiques et statistiques
+Si je suis étranger ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Nantes ?	5 places pour les titulaires d'un master français
+Si je viens de Lyon ?	Il y a 20 places pour vous
+Si je viens de Reims ?	Cinq places pour les titulaires d'un master français
+Si je viens de Marseille ?	5 places pour ceux qui ont un M1 français
+A quelle date ?	Le 5 septembre 2018
+Quand ?	C'est le 5 septembre 2018
+Combien de places en tout ?	Il y a 20 places en tout
+Quels prérequis ?	Mathématiques et statistiques
+Et pour les étrangers ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Angers ?	5 places pour les titulaires d'un master français
+Si je viens de Paris ?	5 places pour les titulaires d'un master français
+Si je viens de Grenoble ?	5 places pour ceux qui ont un M1 français
+Le master forme à quel métier ?	Au métier de data scientist
+Le master forme à quels métiers ?	Au métier de data scientist
+Le  master prépare à quel emploi ?	Au métier de data scientist
+Le  master prépare à quel métier ?	Au métier de data scientist
+Quels sont les débouchés ?	Les data sciences
+Cela débouche sur quoi ?	Au métier de data scientist
+Quel métier après ?	Le métier de data scientist
+C'est un formation de qualité	Merci
+C'est un super Master	Merci
+C'est un master reconnu	Oui, il le devient
+Je suis intéressé	Merci, j'en prends note
+J'aimerais faire votre master	Merci, j'en prends note
+Je veux faire ce master	Merci, j'en prends note
+Votre master m'intéresse	Merci, j'en prends note
+Cordialement	Cordialement
+Salutations	Cordialement
+Bonjour	Bonjour
+Bonjour Monsieur	Bonjour
+Bonjour Professeur	Bonjour
+Merci Monsieur	De rien
+Merci Bien	De rien
+Merci de votre aide	De rien
+Merci pour les renseignements	De rien
+C'est gentil	Merci
+Pourriez-vous me renseigner	Oui, volontiers, quel est votre profil ?
+J'ai besoin d'aide	Oui, volontiers, quel est votre profil ?
+J'ai une question	Oui, posez votre question
+J'ai des questions	Oui, posez vos questions
+C'est possible de s'inscrire ?	Oui, d'où venez vous ?
+Mes salutations	Bonjour
+Il y a un stage à faire ?	Oui de six mois à partir de mars
+Il faut faire un stage ?	Oui de six mois à partir de mars
+La durée du stage ?	Six mois
+Le stage dure combien de temps ?	Six mois
+Il faut être titulaire d'un master en informatique ?	Oui c'est préférable
+J'ai un  master un en bio informatique	Il faut refaire un  master un en informatique
+J'ai un  master un en mathématiques	Il faut postuler au  master DS math
+J'ai un  master un en chimie	Il faut refaire un  master un en informatique
+J'ai fait  master un en bio informatique	Il faut refaire un  master un en informatique
+J'ai fait  master un en mathématiques	Il faut postuler au  master DS math
+J'ai un  master un en physique	Il faut refaire un  master un en informatique
+Quel est le contenu de la formation ?	Il faut regarder sur notre site Web
+Quels sont les cours dispensés ?	Il faut regarder sur notre site Web
+Quels sont les cours donnés ?	Il faut regarder sur notre site Web
+Quels sont les cours enseignés ?	Il faut regarder sur notre site Web
+Quels sont les cours ?	Il faut regarder sur notre site Web
+Quelles sont les unités d'enseignement ?	Il faut regarder sur notre site Web
+Il y a des cours de Graphes ?	Oui
+Il y a des cours de Data Visualization ?	Oui
+Il y a des cours de Big Data ?	Oui il y a un cours en Big Data
+Il y a des cours de Python ?	Oui il y a des TPs de Python
+Il y a des cours de Data Mining ?	Oui il y a un cours de Data Mining
+Il y a des cours de Graphes ?	Oui il y a un cours de Graphes
+Il y a des cours de Machine Learning ?	Oui il y a 2 cours de Machine Learning
+Il y a des rappels de Mathématiques ?	Oui, pour les étudiants de DS informatique
+Il y a des rappels d'informatique ?	Oui, pour les étudiants de DS math
+Quels langages de programmation ?	Python essentiellement
+Il y a des cours de Graphes ?	Oui
+Il y a de la Data Visualization ?	Oui
+Il y a du Big Data ?	Oui
+Il y a du Python ?	Oui
+Y a-t-il du Data Mining ?	Oui
+Il y a des cours de Graphes ?	Oui
+Il y a des cours de Machine Learning ?	Oui il y a 2 cours de Machine Learning
+Il y a des rappels de Mathématiques ?	Oui, pour les étudiants de DS informatique
+Il y a des rappels d'informatique ?	Oui, pour les étudiants de DS math
+Combien d'ECTS par cours ?	Trois ECTS
+Il y a combien de candidats ?	Deux cents environs, la sélection est rude
+Il y a beaucoup de candidats chaque année ?	Deux cents environs, la sélection est rude
+Le niveau est-il élèvé ?	Le niveau est plutôt bon oui.
+Quel est le niveau ?	Le niveau est plutôt bon
+Les cours sont durs ?	Non, mais il faut travailler assidument
+Le master est-il difficile à suivre ? 	Non, mais il faut travailler assidument
+Les cours-ils difficile à suivre ?	Non, mais il faut travailler assidument
+Vous pouvez m'aider ?	Oui, je suis là pour vous renseigner
+J'ai besoin d'aide	Je suis là pour vous renseigner
+J'ai besoin d'un renseignement	Je suis là pour vous renseigner
+J'ai besoin de renseignements	Je suis là pour vous renseigner
+J'ai des questions	Je suis là pour vous aider
+Le master est-il ouvert en alternance ?	Non
+On peut le faire en alternance ?	Non
+On peut faire ce M2 en alternance ?	Non
+Il est possible de faire ce M2 en alternance ?	Non
+Comment faire pour s'inscrire ?	Il faut contacter la scolarité
+Et pour s'inscrire je fais comment ?	Il faut contacter la scolarité
+Est-il encore possible de s'inscrire ?	Il faut contacter la scolarité
+Je voudrais m'inscrire.		Il faut contacter la scolarité
+Et pour les inscriptions on fait comment ?	Il faut contacter la scolarité
+Est-il encore possible de s'inscrire ?	Il faut consulter le calendrier
+Puis-je encore m'inscrire ?	Il faut consulter le calendrier
+Je peux encore m'inscrire ?	Il faut consulter le calendrier
+C'est un master en 2 ans ?	Non, c'est un M2 d'un an.
+Est-ce un master en deux ans ?	Non, c'est un M2 d'un an.
+Le master dure 2 ans ?	Non, c'est un M2 d'un an.
+C'est un master en 1 an ?	Oui, c'est un M2 d'un an.
+Est-ce un master en un an ?	Oui, c'est un M2 d'un an.
+Le master dure un an ?	Oui, c'est un M2 d'un an
+Y a t-il eu des redoublants les années passées ?	Non un seul
+Est-ce un master orienté recherche ou entreprise ?	Il s'agit d'un M2 indifférencié
+Avez-vous une maquette détaillée de ce master ?	Oui je vous l'ai envoyée en pièce jointe
+Ou puis-je trouver le détail des UEs proposées ?	Sur le site du master.
+Est-ce un master PRO ou recherche  ?	Il s'agit d'un M2 indifférencié
+Auriez-vous une maquette de ce master ?	Oui je vous l'ai envoyée en pièce jointe
+Peut-on faire un stage en entreprise ?	Oui
+Je viens de Strasbourg.	Il y a cinq places disponibles dans ce master.
+Aurais-je des vacances ?	Les vacances ne doivent pas être votre motivation.
+Quel est la réputation du master ?	C'est à vous de faire sa réputation. 
+Quel est le pourcentage d'embauche en fin d'études ?	En data sciences, 100%. 
+Comment sont les enseignants ?	A vous de vous faire votre avis ! 
+Je suis indécis.	Tirez à pile ou face. 
+Je suis indécise.	Tirez à pile ou face.
+Quel est le temps à Lyon ?	Plutôt bon.
+Les gens sont-ils cools à Lyon ?	A vous de vous faire votre avis ! 
+Les gens sont-ils sympa à Lyon ?	A vous de vous faire votre avis ! 
+J'ai peur de ne pas réussir.	C'est toujours mieux que ne rien faire.
+J'ai peur de rater.	C'est toujours mieux que ne rien faire.
+Combien d'étudiants ont raté l'an dernier ?	Un seul. 
+J'hésite avec le master intelligence artificielle.	Il faut effectivement faire un choix.
+Peut-on suivre deux cursus en parallèle.	Non, sauf les étudiants de l'ECL. 
+J'aime la data science.	C'est un bon point !
+Je n'aime pas la data science.	Que faites-vous sur ce forum ?
+Avons-nous cours les samedis ?	Non, mais vous pourrez travailler à la BU
+Avons-nous cours le week-end ?	Non, mais la BU est ouverte
+Puis-je avoir le contact d'un ancien élève ?	Oui, bien sûr
+Peut-on faire le master en alternance ?	Non
+Je n'ai pas compris	J'ai oublié votre question pardon
+Pardon ?	J'ai oublié votre question pardon
+Qui sont les enseignants du master ?	Des chercheurs du LIRIS
+En quoi le master consiste ?	6 mois de cours et 5 mois de stage
+
